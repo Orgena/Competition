@@ -352,6 +352,12 @@ footer .part div{
     cursor: pointer;
     font-size: 60px
 }
+#myBtn {
+  display: none;
+  z-index: 99;
+  outline: none;
+}
+
 
 /*********************END FOOTER*********************/
 
